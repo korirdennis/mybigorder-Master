@@ -1,0 +1,3 @@
+[19-Mar-2018 07:52:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/mybigord/public_html/protected/modules/Template Files/pts-mypoints.php on line 2
+[30-Mar-2018 11:18:48 UTC] PHP Fatal error:  Using $this when not in object context in /home/mybigord/public_html/protected/modules/Template Files/pts-mypoints.php on line 2
+[26-Apr-2018 06:38:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/mybigord/public_html/protected/modules/Template Files/pts-mypoints.php on line 2

@@ -1,0 +1,1 @@
+[02-May-2018 23:19:28 UTC] PHP Fatal error:  Class 'CWebModule' not found in /home/mybigord/public_html/protected/modules/mobileapp/MobileappModule.php on line 21

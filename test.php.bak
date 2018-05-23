@@ -1,0 +1,5 @@
+<?php
+echo time();
+echo "hello world Juma Nelson Denis is the bomb diggity 222 Kenya";
+//echo phpinfo(); 
+?>
